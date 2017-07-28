@@ -12,3 +12,7 @@ Elastic-search 中文指南：
 https://es.xiaoleilu.com/010_Intro/25_Tutorial_Indexing.html
 jenkins-plugins：
 http://updates.jenkins-ci.org/download/plugins/
+tomcat工作原理：
+http://www.ibm.com/developerworks/cn/java/j-lo-tomcat1
+设计模式分析：
+http://www.ibm.com/developerworks/cn/java/j-lo-tomcat2
